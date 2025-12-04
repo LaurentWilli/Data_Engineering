@@ -2,3 +2,9 @@
 
 # Data Engineering
 Ressources on Data Engineering topics
+
+## Professional career on LinkedIn
+https://www.linkedin.com/in/laurent-willi/
+## Publications on Medium
+https://medium.com/@laurent.willi
+## Personal Projects
