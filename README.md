@@ -7,4 +7,8 @@ Ressources on Data Engineering topics
 https://www.linkedin.com/in/laurent-willi/
 ## Publications on Medium
 https://medium.com/@laurent.willi
+
 ## Personal Projects
+### New York City Taxi Trip records
+Implementation of a "Divide & Conquer" Spark ingestion strategy to harmonize years of heterogeneous NYC Taxi data for Machine Learning model training.
+👉 [View full analysis here](data_analysis/nyYellowCab.ipynb)
