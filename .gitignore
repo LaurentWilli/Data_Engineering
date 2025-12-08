@@ -1,0 +1,32 @@
+# --- DONNÉES (Le plus important) ---
+*.parquet
+*.snappy.parquet
+# On ignore les dossiers de données (ajustez selon vos noms)
+data/
+nyc_taxi_*/
+output_*/
+resultat_*/
+*.csv
+# Exception : on veut garder le petit fichier des zones
+!data/taxi_zones.csv
+
+# --- SYSTÈME & PYTHON ---
+# Fichiers compilés
+__pycache__/
+*.pyc
+
+# Environnement Virtuel (TRES IMPORTANT à ignorer)
+venv/
+.venv/
+env/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Fichiers macOS
+.DS_Store
+
+# Logs Spark (si vous en avez dans le dossier)
+spark-warehouse/
+derby.log
+metastore_db/
